@@ -42,7 +42,7 @@ Para implementar completamente el proyecto necesita al menos:
 * Python 3 o superior.
 * Git.
 * Spring 5.
-* Java 8.
+* Java 8 o 11.
 * Postman.
 
 Adicionalmente, necesitará implementar el proyecto: `spring-security-jwt`. Ubica el proyecto y la guía de compilación a continuación.
