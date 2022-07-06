@@ -45,7 +45,7 @@ Para implementar completamente el proyecto necesita al menos:
 * Java 8 o 11.
 * Postman.
 
-Adicionalmente, necesitará implementar el proyecto: `spring-security-jwt`. Ubica el proyecto y la guía de compilación a continuación.
+Adicionalmente, necesitará implementar el proyecto: `spring-security-jwt`. Ubica el proyecto y la guía de compilación y ejecución a continuación.
 
 Enlace: [Repositorio spring-security-jwt.](https://github.com/CarmenKaplanB/EmployeesJava)
 
